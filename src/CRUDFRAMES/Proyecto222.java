@@ -14,7 +14,8 @@ public class Proyecto222 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        CRUDMENU mainJframe = new CRUDMENU();
+        mainJframe.setVisible(true);
     }
     
 }

@@ -224,6 +224,7 @@ public class CRUDpres extends javax.swing.JFrame {
         txtfecha.setText("");
         txtCli.setText("");
         this.txtpelis.setText("");
+        
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void btneliActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btneliActionPerformed

@@ -207,6 +207,8 @@ public class CRUDpeli extends javax.swing.JFrame {
         txtcodigo.setText("");
         txtNombre.setText("");
         txtcat.setText("");
+        
+        
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
